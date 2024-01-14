@@ -34,7 +34,8 @@ To run the tests:
     (ql:quickload :clj-arrows-test)
     (clj-arrows-test:run-tests)
 
-Tested with sbcl 2.3.0 and abcl 1.9.0 in a Fedora 35 linux.
+Tested with sbcl 2.3.0 and abcl 1.9.0 in a Fedora 35 linux, 
+ACL 11.0 on Fedora 38, and CCL 1.12.2 on Fedora 38.
 
 # Documentation
 
